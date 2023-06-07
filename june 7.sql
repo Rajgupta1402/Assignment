@@ -56,6 +56,8 @@ SELECT * FROM BR WHERE ADDRESS LIKE "%ST%";
 
 SELECT * FROM BR WHERE ADDRESS LIKE "O%V";
 
+
+-- this is csv file
 select * from csv;
 
 
